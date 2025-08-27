@@ -6,7 +6,7 @@ import time
 # Función de heartbeat
 def heartbeat():
     while True:
-        time.sleep(15)
+        time.sleep(2)
         print("El script sigue en ejecución. Tenga paciencia")
 
 # Leer los valores desde un fichero de texto
@@ -46,6 +46,9 @@ parser.add_argument('-f', '--file', required=True, help="Archivo con los valores
 parser.add_argument('-d', '--directory', required=True, help="Directorio raíz para la búsqueda")
 parser.add_argument('-i', '--include-missing', action='store_true', help="Incluir valores no encontrados en el resultado")
 args = parser.parse_args()
+
+# Iniciar el hilo de heartbeat
+threading.Thread(target=heartbeat, daemon=True).start()
 
 # Ejecutar
 print("-- Iniciamos el proceso de búsqueda --")
