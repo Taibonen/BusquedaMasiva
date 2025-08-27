@@ -1,0 +1,104 @@
+Valor -> Archivo -> Ruta
+cs_line_test -> Web.config -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.ActividadComercial\Web.config
+cs_line_test -> Web.config -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.CanalAsociado\Web.config
+cs_line_test -> Web.config -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.CarteraCliente\Web.config
+asg_cambio -> Tcnet.Ng.IRConmutacion.dll -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.Clientes\bin\Tcnet.Ng.IRConmutacion.dll
+asg_cambio_asig -> Tcnet.Ng.IRConmutacion.dll -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.Clientes\bin\Tcnet.Ng.IRConmutacion.dll
+asg_cambio_asig_ld -> Tcnet.Ng.IRConmutacion.dll -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.Clientes\bin\Tcnet.Ng.IRConmutacion.dll
+cs_line_test -> Web.config -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.Comisiones\Web.config
+asg_actualiza_datos_alta -> ConstantesProdInst.cs -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.Contratacion\ProductoInstalado\ConstantesProdInst.cs
+asg_reservado_disponible -> ProdInstPrincipalInformation.aspx.cs -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.Contratacion\ProductoInstalado\ProdInstPrincipalInformation.aspx.cs
+cs_line_test -> Web.config -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.GestionRecursos\Web.config
+asg_cambio -> AsignacionIntranetInternet.aspx.cs -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.GestionRecursos\Rango\AsignacionIntranetInternet.aspx.cs
+asg_cambios_rangos_central -> AsignacionIntranetInternet.aspx.cs -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.GestionRecursos\Rango\AsignacionIntranetInternet.aspx.cs
+asg_cambio -> AsignacionIP.aspx.cs -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.GestionRecursos\Rango\AsignacionIP.aspx.cs
+asg_cambios_rangos_central -> AsignacionIP.aspx.cs -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.GestionRecursos\Rango\AsignacionIP.aspx.cs
+asg_cambio -> AsignacionPrimario.aspx.cs -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.GestionRecursos\Rango\AsignacionPrimario.aspx.cs
+asg_cambios_rangos_central -> AsignacionPrimario.aspx.cs -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.GestionRecursos\Rango\AsignacionPrimario.aspx.cs
+asg_cambio -> AsignacionRedInteligente.aspx.cs -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.GestionRecursos\Rango\AsignacionRedInteligente.aspx.cs
+asg_cambios_rangos_central -> AsignacionRedInteligente.aspx.cs -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.GestionRecursos\Rango\AsignacionRedInteligente.aspx.cs
+asg_cambio -> AsignacionReservaParcial.aspx.cs -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.GestionRecursos\Rango\AsignacionReservaParcial.aspx.cs
+asg_cambios_rangos_central -> AsignacionReservaParcial.aspx.cs -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.GestionRecursos\Rango\AsignacionReservaParcial.aspx.cs
+asg_cambio -> Tcnet.Ap.IRConmutacion.csproj -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.IRConmutacion\Tcnet.Ap.IRConmutacion.csproj
+asg_cambio_asig -> Tcnet.Ap.IRConmutacion.csproj -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.IRConmutacion\Tcnet.Ap.IRConmutacion.csproj
+asg_cambio_asig_ld -> Tcnet.Ap.IRConmutacion.csproj -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.IRConmutacion\Tcnet.Ap.IRConmutacion.csproj
+asg_intercambia_lineas_agrup -> Tcnet.Ap.IRConmutacion.csproj -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.IRConmutacion\Tcnet.Ap.IRConmutacion.csproj
+asg_modif_cabecera -> Tcnet.Ap.IRConmutacion.csproj -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.IRConmutacion\Tcnet.Ap.IRConmutacion.csproj
+asg_cambio -> asg_cambio.sql -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.IRConmutacion\Modificaciones Vantive Integracion\asg_cambio.sql
+asg_cambio -> asg_cambio_asig.sql -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.IRConmutacion\Modificaciones Vantive Integracion\asg_cambio_asig.sql
+asg_cambio_asig -> asg_cambio_asig.sql -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.IRConmutacion\Modificaciones Vantive Integracion\asg_cambio_asig.sql
+asg_cambio -> asg_cambio_asig_ld.sql -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.IRConmutacion\Modificaciones Vantive Integracion\asg_cambio_asig_ld.sql
+asg_cambio_asig -> asg_cambio_asig_ld.sql -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.IRConmutacion\Modificaciones Vantive Integracion\asg_cambio_asig_ld.sql
+asg_cambio_asig_ld -> asg_cambio_asig_ld.sql -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.IRConmutacion\Modificaciones Vantive Integracion\asg_cambio_asig_ld.sql
+asg_cambio -> asg_intercambia_lineas_agrup.sql -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.IRConmutacion\Modificaciones Vantive Integracion\asg_intercambia_lineas_agrup.sql
+asg_cambio_asig -> asg_intercambia_lineas_agrup.sql -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.IRConmutacion\Modificaciones Vantive Integracion\asg_intercambia_lineas_agrup.sql
+asg_cambio_asig_ld -> asg_intercambia_lineas_agrup.sql -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.IRConmutacion\Modificaciones Vantive Integracion\asg_intercambia_lineas_agrup.sql
+asg_intercambia_lineas_agrup -> asg_intercambia_lineas_agrup.sql -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.IRConmutacion\Modificaciones Vantive Integracion\asg_intercambia_lineas_agrup.sql
+asg_separa_rangos -> asg_intercambia_lineas_agrup.sql -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.IRConmutacion\Modificaciones Vantive Integracion\asg_intercambia_lineas_agrup.sql
+asg_modif_cabecera -> asg_modif_cabecera.sql -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.IRConmutacion\Modificaciones Vantive Integracion\asg_modif_cabecera.sql
+asg_rangos_central_centr -> asg_modif_cabecera.sql -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.IRConmutacion\Modificaciones Vantive Integracion\asg_modif_cabecera.sql
+cs_line_test -> Web.config -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.Oferta\Web.config
+cs_line_test -> Web.config -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.Oportunidades\Web.config
+OS_cs_fichero_puentes -> TareasAuto.aspx.cs -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.Ordenes\Pruebas\TareasAuto.aspx.cs
+cs_line_test -> Web.config -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.Pedido\Web.config
+cs_line_test -> Web.config -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.Siadcportal\Web.config
+cs_line_test -> Web.config -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.TC.CatalogoFormulas\Web.config
+cs_line_test -> Web.config -> D:\tcnet\Tcnet.Ap\Tcnet.Ap.TC.InstanciaFormula\Web.config
+asgf4_estado_agrup -> AgrupacionEquiposDAT.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.AgrupEquipos\AgrupacionEquiposDAT.cs
+asg_configurado_disponible -> AgrupacionEquiposSL.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.AgrupEquipos\AgrupacionEquiposSL.cs
+asg_configurado_disponible3 -> AgrupacionEquiposSL.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.AgrupEquipos\AgrupacionEquiposSL.cs
+asgf4_cambio_titular -> AgrupacionEquiposSL.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.AgrupEquipos\AgrupacionEquiposSL.cs
+asg_inser_centralita_agrup -> Centralita.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.Centralitas\Centralita.cs
+asg_modif_cabecera -> Centralita.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.Centralitas\Centralita.cs
+asgf2_asociar_dev -> Centralita.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.Centralitas\Centralita.cs
+asgf2_asociar_dev_modif_lineas -> Centralita.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.Centralitas\Centralita.cs
+asg_cambio -> Constantes.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.IRConmutacion\GruposSalto\GrupoSaltoNoAnalogico\Constantes.cs
+asg_cambios_rangos_central -> Constantes.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.IRConmutacion\GruposSalto\GrupoSaltoNoAnalogico\Constantes.cs
+asg_rangos_central_centr -> Constantes.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.IRConmutacion\GruposSalto\GrupoSaltoNoAnalogico\Constantes.cs
+asg_rangos_central_centr -> GrupoSaltoNoAnalogico.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.IRConmutacion\GruposSalto\GrupoSaltoNoAnalogico\GrupoSaltoNoAnalogico.cs
+asg_cambio -> Device.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.IRConmutacion\RecursosServicio\Device\Device.cs
+asg_cambio_asig -> Device.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.IRConmutacion\RecursosServicio\Device\Device.cs
+asg_cambio_asig_ld -> Device.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.IRConmutacion\RecursosServicio\Device\Device.cs
+asg_cambio -> Constantes.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.IRConmutacion\RecursosServicio\V5\Constantes.cs
+asg_cambio_asig -> Constantes.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.IRConmutacion\RecursosServicio\V5\Constantes.cs
+asg_cambio_asig_ld -> Constantes.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.IRConmutacion\RecursosServicio\V5\Constantes.cs
+asg_intercambia_lineas_agrup -> Constantes.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.IRConmutacion\RecursosServicio\V5\Constantes.cs
+asg_cambio -> V5.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.IRConmutacion\RecursosServicio\V5\V5.cs
+asg_cambio_asig -> V5.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.IRConmutacion\RecursosServicio\V5\V5.cs
+asg_cambio_asig_ld -> V5.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.IRConmutacion\RecursosServicio\V5\V5.cs
+por_nrn -> ConstantesPedidosNeba.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.NEON\NEBA\Pedidos\ConstantesPedidosNeba.cs
+av_prod_ot_ad_ubicacion_caja -> Constantes.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.OT\Constantes.cs
+por_nrn -> MensajesNegocio.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.PorMensajes\MensajesNegocio.cs
+asg_actualiza_datos_alta -> Constantes.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.ProdInstalado\Constantes.cs
+asg_actualiza_datos_alta_ADSL -> Constantes.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.ProdInstalado\Constantes.cs
+asg_bajas_net -> Constantes.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.ProdInstalado\Constantes.cs
+asg_configurado_disponible -> Constantes.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.ProdInstalado\Constantes.cs
+asg_configurado_disponible3 -> Constantes.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.ProdInstalado\Constantes.cs
+asg_reservado_disponible -> Constantes.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.ProdInstalado\Constantes.cs
+cs_numeros_gold -> Constantes.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.ProdInstalado\Constantes.cs
+cs_val_Gestor_Numeracion -> Constantes.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.ProdInstalado\Constantes.cs
+asg_actualiza_datos_alta -> ProdInstalado.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.ProdInstalado\ProdInstalado.cs
+cs_numeros_gold -> ProdInstalado.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.ProdInstalado\ProdInstalado.cs
+cs_line_test -> Constantes.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.ProdInstLlamadasSSH\Constantes.cs
+provision_itelazpi -> Constantes.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.ProdInstLlamadasSSH\Constantes.cs
+provision_itelazpi -> Ssh.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.ProdInstLlamadasSSH\Ssh.cs
+asg_alta_num_agrup_manual -> Rango.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.RangoNumeracion\Rango.cs
+asg_borra_central_agrup -> Rango.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.RangoNumeracion\Rango.cs
+asg_cambio -> Rango.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.RangoNumeracion\Rango.cs
+asg_cambio_numeros -> Rango.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.RangoNumeracion\Rango.cs
+asg_cambios_rangos_central -> Rango.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.RangoNumeracion\Rango.cs
+asg_configurado_disponible -> Rango.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.RangoNumeracion\Rango.cs
+asg_configurado_disponible3 -> Rango.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.RangoNumeracion\Rango.cs
+asgf2_libresinconf_libre -> Rango.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.RangoNumeracion\Rango.cs
+asgf2_localiza_devices -> Rango.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.RangoNumeracion\Rango.cs
+asgf4_estado_agrup -> Rango.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.RangoNumeracion\Rango.cs
+asg_intercambia_lineas_agrup -> AccesoDirecto.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.SHOPA.AccesoDirecto\AccesoDirecto.cs
+asg_reservado_disponible -> AccesoDirecto.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.SHOPA.AccesoDirecto\AccesoDirecto.cs
+OS_prov_central_directo -> AccesoDirecto.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.SHOPA.AccesoDirecto\AccesoDirecto.cs
+por_nrn -> AccesoDirecto.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.SHOPA.AccesoDirecto\AccesoDirecto.cs
+prov_central_directo -> AccesoDirecto.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.SHOPA.AccesoDirecto\AccesoDirecto.cs
+por_nrn -> Constantes.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.SHOPA.AccesoDirecto\Constantes.cs
+asg_cambio -> V5.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.V5\V5.cs
+asg_comprueba_asg_libre -> V5.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.V5\V5.cs
+asg_intercambia_lineas_agrup -> V5.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.V5\V5.cs
+asgf4_cambio_estado_una_linea -> V5.cs -> D:\tcnet\Tcnet.Ng\Tcnet.Ng.V5\V5.cs
